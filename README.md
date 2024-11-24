@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# 💫 About Me: 
 🔭 I’m currently working on Web and Android Development<br>🌱 I’m Pursuing BTech in Srinivas University<br>💬 passionate about coding, algorithms, and software development <br>⚡ Fun fact Constantly learning and exploring new technologies
 
 
